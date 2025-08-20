@@ -37,5 +37,3 @@
    Menggunakan screenshot untuk mendukung validasi dan pembuktian kondisi bug atau fitur.
 
 ---
-## Lisensi  
-Project ini dilindungi oleh lisensi **MIT**.
